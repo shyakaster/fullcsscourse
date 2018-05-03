@@ -47,5 +47,11 @@ The course is divided into three parts.
   * Advanced Web Development Knowledge
   * CSS Knowledge
 
+**How to get the best out of the course**
+
+  * Code along and watch the videos(Contact me for these)
+  * Do the exercises because practicing is everything
+  *Debug your own errors
+
 
 
