@@ -10,8 +10,10 @@ The course is divided into three parts.
 
 1. **The basic track**
 
-      ..* Here we shall cover
+  Here we shall cover
+
       ..* Getting started
+      ⋅⋅* Unordered sub-list.
       ..* The basics
       ..* Dive deeper into some concepts
       ..* More on selectors and CSS modules
