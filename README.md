@@ -41,5 +41,11 @@ The course is divided into three parts.
       * Writing future proof CSS
       * Saas
 
+***Course prerequisites***
+
+  * Basic Web development and HTML Knowledge
+  * Advanced Web Development Knowledge
+  * CSS Knowledge
+
 
 
