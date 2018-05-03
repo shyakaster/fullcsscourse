@@ -9,6 +9,7 @@ Through this course we shall build a project and be able to put into practice al
 The course is divided into three parts.
 
 1. **The basic track**
+
       ..* Here we shall cover
       ..* Getting started
       ..* The basics
@@ -16,7 +17,9 @@ The course is divided into three parts.
       ..* More on selectors and CSS modules
       ..* Practicing the basics
       ..* Positioning
+
 2. **The advanced track**
+
       ..* Background images
       ..* Dimensions units and sizes
       ..* Javascript and CSS
@@ -25,6 +28,7 @@ The course is divided into three parts.
       ..* Advanced fonts
 
 3. **The expert track**
+
       ..* FlexBox
       ..* CSS grid
       ..* Transformations
