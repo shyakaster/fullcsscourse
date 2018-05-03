@@ -1,3 +1,5 @@
+/*The * element would also be appropriate but it is not efficient when it comes
+to parsing all the elements in the body element so we prefer to use the body element instead*/
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -5,12 +7,18 @@ body {
 #product-overview {
     background: #ff1b68;
 }
-
+/*by using inheritance here we are increasing the specificity of the h1 tag with this
+section-title class tag */
 .section-title {
     color: #2ddf5c;
-}
+    font-family: inherit;
 
-h1 {
+}
+/*Inheritance works but it has lower specificity compared to directly applied styles like the one
+below.*/
+/*A combinator is different from inheritance because we are not inheriting a rule we are just
+saying apply the rule for all elements in that order*/
+#product-overview h1 {
     color: white;
     font-family: 'Anton', sans-serif;
 }

@@ -68,5 +68,76 @@ The course is divided into three parts.
   * Selectors, Properties and Values
   * Conflicting styles
 
+**A note about combinators that is very important**
+
+**Adjacent sibling**
+
+``html
+    h2 + p
+    {
+      color:red;
+    }
+
+..For this to work
+
+  * Elements share the same parent
+  * Second element comes immediately after first element
+
+  **General sibling**
+
+  ``html
+    h2 ~ p
+    {
+      color: red;
+    }
 
 
+..For this to work
+
+  * Elements share the same parent
+  * Second element comes after the first element. It does not have to be immediately after
+
+  **Child sibling**
+
+  ``html
+    div > p
+    {
+      color: red;
+    }
+
+..For this to work
+
+  * Second element is a direct child of first element
+
+**Descedant sibling**
+
+``html
+  div p
+  {
+    color: red;
+  }
+
+
+..For this to work
+
+  * Second element is a descedant of the first element and not a direct child
+
+**Resources**
+  ..We have covered selectors, properties and values
+  .. No need to memorize the entire list
+  https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+**Summary**
+ ..CSS works with rules
+ ..Different types of selectors and these are:
+    *Element selectors like h1
+    *Class selectors
+    *Attribute selectors like [disabled]
+    *ID selectos
+    *Universal selectors
+ ..Properties and values
+ ..Inheritance and Specifity
+    *Parent styles are generally inherited
+    *Multiple rules can apply to one element
+    *Specifity resolves multiple rules conflicts
+    *Inheritance defaults can be changed
