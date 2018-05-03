@@ -32,14 +32,14 @@ The course is divided into three parts.
 
 3. **The expert track**
 
-  **Here we shall cover**
+  Here we shall cover
 
-      * FlexBox
-      * CSS grid
-      * Transformations
-      * Transitions and animations
-      * Writing future proof CSS
-      * Saas
+    * FlexBox
+    * CSS grid
+    * Transformations
+    * Transitions and animations
+    * Writing future proof CSS
+    * Saas
 
 ***Course prerequisites***
 
