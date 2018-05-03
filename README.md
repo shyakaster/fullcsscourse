@@ -59,4 +59,14 @@ The course is divided into three parts.
   * Code editors--you are free to use sublime text or visual studio code.
   * Use chrome because of its strong developer tools.
 
+**Diving into the basics**
+
+**What we shall cover in this course unit**
+
+  * How to add CSS to HTML
+  * Setting up CSS rules
+  * Selectors, Properties and Values
+  * Conflicting styles
+
+
 
