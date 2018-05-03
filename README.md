@@ -54,5 +54,9 @@ The course is divided into three parts.
   * Debug your own errors
   * Ask me any questions you might have(alexshyaka@therailsshop.club)
 
+**Which tools shall we use**
+
+  * Code editors--you are free to use sublime text or visual studio code.
+  * Use chrome because of its strong developer tools.
 
 
