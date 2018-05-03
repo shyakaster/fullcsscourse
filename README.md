@@ -32,7 +32,7 @@ The course is divided into three parts.
 
 3. **The expert track**
 
-  Here we shall cover
+  **Here we shall cover**
 
       * FlexBox
       * CSS grid
@@ -51,7 +51,8 @@ The course is divided into three parts.
 
   * Code along and watch the videos(Contact me for these)
   * Do the exercises because practicing is everything
-  *Debug your own errors
+  * Debug your own errors
+  * Ask me any questions you might have(alexshyaka@therailsshop.club)
 
 
 
