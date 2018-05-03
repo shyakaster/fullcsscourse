@@ -22,6 +22,8 @@ The course is divided into three parts.
 
 2. **The advanced track**
 
+  Here we shall cover
+
       ..* Background images
       ..* Dimensions units and sizes
       ..* Javascript and CSS
@@ -30,6 +32,8 @@ The course is divided into three parts.
       ..* Advanced fonts
 
 3. **The expert track**
+
+  Here we shall cover
 
       ..* FlexBox
       ..* CSS grid
