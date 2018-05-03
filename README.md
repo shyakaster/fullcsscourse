@@ -8,7 +8,7 @@ Through this course we shall build a project and be able to put into practice al
 
 The course is divided into three parts.
 
-1. **The basic track**
+**The basic track**
 
   Here we shall cover
 
@@ -19,7 +19,7 @@ The course is divided into three parts.
   * Practicing the basics
   * Positioning
 
-2. **The advanced track**
+**The advanced track**
 
   Here we shall cover
 
@@ -30,7 +30,7 @@ The course is divided into three parts.
   * Forms and styling forms
   * Advanced fonts
 
-3. **The expert track**
+**The expert track**
 
   Here we shall cover
 
