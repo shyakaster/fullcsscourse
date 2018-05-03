@@ -12,9 +12,8 @@ The course is divided into three parts.
 
   Here we shall cover
 
-      ..* Getting started
-      ⋅⋅* Unordered sub-list.
-      ..* The basics
+      * Getting started
+      * The basics
       ..* Dive deeper into some concepts
       ..* More on selectors and CSS modules
       ..* Practicing the basics
