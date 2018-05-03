@@ -14,32 +14,32 @@ The course is divided into three parts.
 
       * Getting started
       * The basics
-      ..* Dive deeper into some concepts
-      ..* More on selectors and CSS modules
-      ..* Practicing the basics
-      ..* Positioning
+      * Dive deeper into some concepts
+      * More on selectors and CSS modules
+      * Practicing the basics
+      * Positioning
 
 2. **The advanced track**
 
   Here we shall cover
 
-      ..* Background images
-      ..* Dimensions units and sizes
-      ..* Javascript and CSS
-      ..* Responsive design
-      ..* Forms and styling forms
-      ..* Advanced fonts
+      * Background images
+      * Dimensions units and sizes
+      * Javascript and CSS
+      * Responsive design
+      * Forms and styling forms
+      * Advanced fonts
 
 3. **The expert track**
 
   Here we shall cover
 
-      ..* FlexBox
-      ..* CSS grid
-      ..* Transformations
-      ..* Transitions and animations
-      ..* Writing future proof CSS
-      ..* Saas
+      * FlexBox
+      * CSS grid
+      * Transformations
+      * Transitions and animations
+      * Writing future proof CSS
+      * Saas
 
 
 
