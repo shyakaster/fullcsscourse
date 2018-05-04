@@ -166,7 +166,7 @@ Inheritance and Specifity
 
         box-sizing: border-box;
 
-      }
+        }
 
   * The prefered way of setting the box-sizing property
 
