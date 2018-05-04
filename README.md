@@ -162,18 +162,20 @@ Inheritance and Specifity
   * Always better to set it using the universal element if you prefer your height and width to include the padding and border of the content
 
 
-      *{
+      * {
+
         box-sizing: border-box;
+
       }
 
   * The prefered way of setting the box-sizing property
 
-  ``html
+
       box-sizing: border-box;
 
 
-  *The default way
-  ``html
+  * The default way
+
       box-sizing: content-box;
 
 
