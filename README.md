@@ -143,3 +143,33 @@ Inheritance and Specifity
 * Multiple rules can apply to one element
 * Specifity resolves multiple rules conflicts
 * Inheritance defaults can be changed
+
+**Diving Deeper- Section 3**
+
+* The BoxModel
+* Height and Width
+* The Display property
+* Properties worth to remember
+* Pseudo classes and elements
+**Note**
+  * Margin collapsing- This means two elements on top of each other both have margins
+  and the larger margin always wins. This is inforced by the box model. So it is advised to use margin-top or margin-bottom if you want to enforce one
+  * All block elements like sections all have a width of 100 percent. They take the full length of the containing element.
+  * The height behaves a bit different though. The parent elements have to cascade the property down to the target element if you use height percentange
+  * Box-sizing is by default set to content-box which is the height and width of the content only without including the padding and the border but if you set it to border-box then it will include them and it is considered good practice.
+  * Always better to set it using the universal element if you prefer your height and width to include the padding and border of the content
+
+  ``html
+      *{
+        box-sizing: border-box;
+      }
+  *The prefered way of setting the box-sizing property
+  ``html
+      box-sizing: border-box;
+
+  *The default way
+  ``html
+      box-sizing: content-box;
+
+
+
