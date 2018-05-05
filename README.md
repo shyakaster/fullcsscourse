@@ -177,6 +177,16 @@ Inheritance and Specifity
   * The default way
 
       box-sizing: content-box;
+**Pseudo Classes and Pseudo elements**
+
+  * Pseudo class: defines a style of a special state of an element like the hover or active state
+
+  Syntax: :class name
+  * Pseudo element: defines the style of a special part of an element
+
+  Syntax: : : element name
+
+  * More on Pseudo classes and elements [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
 
 
