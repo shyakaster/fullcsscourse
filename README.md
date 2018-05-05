@@ -188,5 +188,7 @@ Inheritance and Specifity
 
   * More on Pseudo classes and elements [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
+  * The Box Model is very important to understand how it works especially when it comes to how it works with box-sizing with the width and height.
+
 
 
