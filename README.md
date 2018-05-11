@@ -196,7 +196,7 @@ Inheritance and Specifity
    * You can use IDs to link to different places on the same page and this functionality is baked into HTML and thats one of the ways in which they can be useful but not to use necessarily for styling pages
 
    Note
-   * :not() Read abt it [here]("https://developer.mozilla.org/en-US/docs/Web/CSS/:not")
+   * :not() Read about it [here](https://developer.mozilla.org/en-US/docs/Web/CSS/:not)
 
 
 
