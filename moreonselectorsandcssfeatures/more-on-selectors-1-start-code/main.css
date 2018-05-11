@@ -17,6 +17,14 @@ p.active{
     background-color: red;
 }
 
+p{
+    background-color: blue;
+}
+/*Avoid using this method it can easily turn out to be complicated for nothing: Better to use the above method*/
+p:not(.active){
+    background-color: blue;
+}
+
 .main-section {
     height: 800px;
     border: 1px solid #ccc;
