@@ -190,5 +190,15 @@ Inheritance and Specifity
 
   * The Box Model is very important to understand how it works especially when it comes to how it works with box-sizing with the width and height.
 
+  **More on selectors and CSS features**
+
+   * Use classes if you want to style your pages and not id unless they symantically make sense but your first choice should be to use classes
+   * You can use IDs to link to different places on the same page and this functionality is baked into HTML and thats one of the ways in which they can be useful but not to use necessarily for styling pages
+
+   Note
+   * :not() Read abt it [here]("https://developer.mozilla.org/en-US/docs/Web/CSS/:not")
+
+
+
 
 
